@@ -1,0 +1,6 @@
+flask = 3.0.2
+opencv-python = 4.9.0.80
+SpeechRecognition = 3.10.1
+google-generativeai = 0.3.2 
+subprocess by FFmpeg for audio extraction
+MediaRecorder API: Video recording in browser
