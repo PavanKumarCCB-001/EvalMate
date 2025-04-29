@@ -9,7 +9,7 @@ app = Flask(__name__, static_url_path='', static_folder='static')
 app.config['UPLOAD_FOLDER'] = 'uploads'
 
 # Configure Google GenAI with your API key
-google_genai.configure(api_key='AIzaSyBFFDMi5Szy_UcI1YS-Pg1qykH1VEf39rY')
+google_genai.configure(api_key='Your API Key')
 
 @app.route('/')
 def index():
